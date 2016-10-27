@@ -22,13 +22,13 @@ class App extends Component {
         <Sticker title="JS" emoji="🚀" color="#F0DB4F" size="3.5rem"></Sticker>
         <Sticker title="Audio" emoji="🎤" color="purple" dark size="3rem"></Sticker>
         <Sticker title="WebGL" emoji="🎥" color="#97040C" dark size="3rem"></Sticker>
-        <Sticker title="" color="pink"></Sticker>
+        <Sticker title="WebVR" emoji="🏄" color="pink" size="3rem"></Sticker>
 
         <Sticker title="CSS" emoji="🎨" color="#2FA7D9" size="3.5rem"></Sticker>
         <Sticker title="JS" emoji="🚀" color="#F0DB4F" size="3.5rem"></Sticker>
         <Sticker title="Audio" emoji="🎤" color="purple" dark size="3rem"></Sticker>
         <Sticker title="WebGL" emoji="🎥" color="#97040C" dark size="3rem"></Sticker>
-        <Sticker title="" color="pink"></Sticker>
+        <Sticker title="WebVR" emoji="🏄" color="pink" size="3rem"></Sticker>
       </div>
     );
   }
